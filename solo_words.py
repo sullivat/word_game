@@ -1,4 +1,4 @@
-#! usr/local/bin/python3
+#!usr/bin/env python3
 
 # My implementation of the MIT 6.00 Word Game
 
