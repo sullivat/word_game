@@ -1,3 +1,5 @@
+#!usr/bin/env python3
+
 from solo_words import *
 import time
 
